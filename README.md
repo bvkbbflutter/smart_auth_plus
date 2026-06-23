@@ -4,7 +4,7 @@ A Flutter plugin for Android that wraps Google Play Services' SMS and phone-numb
 
 ## Preview
 
-![Flutter Phone Field](https://raw.githubusercontent.com/bvkbbflutter/flutter_phone_field_plus/main/assets/images/smart_auth_plus.png)
+![Flutter Phone Field](https://raw.githubusercontent.com/bvkbbflutter/smart_auth_plus/main/assets/images/smart_auth_plus.png)
 
 ## Features
 
