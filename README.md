@@ -23,7 +23,7 @@ All results are exposed as **sealed classes** via **Streams** – no callbacks, 
 
 ```yaml
 dependencies:
-  smart_auth_plus: ^0.0.1
+  smart_auth_plus: ^1.0.1
 ```
 
 ---
