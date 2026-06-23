@@ -1,5 +1,3 @@
-import 'smart_auth_plus_platform_interface.dart';
-
 /// SmartAuthPlus - Flutter plugin for Android SMS/Phone authentication APIs.
 ///
 /// Features:

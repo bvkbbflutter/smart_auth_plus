@@ -1,5 +1,4 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:smart_auth_plus/smart_auth_plus.dart';
 import 'package:smart_auth_plus/smart_auth_plus_platform_interface.dart';
 import 'package:smart_auth_plus/smart_auth_plus_method_channel.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
@@ -19,7 +18,6 @@ void main() {
   });
 
   test('getPlatformVersion', () async {
-    SmartAuthPlus smartAuthPlusPlugin = SmartAuthPlus();
     MockSmartAuthPlusPlatform fakePlatform = MockSmartAuthPlusPlatform();
     SmartAuthPlusPlatform.instance = fakePlatform;
 
