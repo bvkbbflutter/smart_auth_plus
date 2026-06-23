@@ -1,5 +1,4 @@
 name: smart_auth_plus
-description: "A new Flutter project."
 description: Flutter plugin for SMS Retriever, SMS User Consent, Phone Number Hint and App Signature APIs.
 version: 1.0.0
 homepage: https://github.com/bvkbbflutter/smart_auth_plus
